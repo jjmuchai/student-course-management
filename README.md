@@ -71,7 +71,3 @@ You can use tools like **DBeaver**, **pgAdmin**, or the PostgreSQL command line 
 
 **James Muchai**  
 Junior Database Developer  
-
----
-
-> 💡 *Tip: Keep your SQL clean, use comments, and format your code for readability.*
